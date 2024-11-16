@@ -40,7 +40,7 @@ blockquote p:not(#kalimat, #teksnim){display:none;}
 #pergeseran p b{display:block;}
 #pergeseran p b span{font-size:16px;font-weight:700;}
 #pergeseran p b span.ft{font-family:var(--gaya-font2);font-size:20px}
-#pergeseran p b img{background:rgba(255,255,255, .5);box-shadow: 0 4px 30px rgba(255,255,255, 0.2);backdrop-filter: blur(5px);-webkit-backdrop-filter: blur(5px);border: 1px solid rgba(255, 255, 255, 1);border-radius: 50%;padding:10px;width:70px;height:70px;margin-bottom:20px;}
+#pergeseran p b img{background:rgba(255,255,255, .5);box-shadow: 0 4px 30px rgba(255,255,255, 0.2);backdrop-filter: blur(5px);-webkit-backdrop-filter: blur(5px);border: 1px solid rgba(255, 255, 255, 1);border-radius: 30%;padding:10px;width:70px;height:70px;margin-bottom:20px;}
 #fotolove{border-radius:50%;transition:all .3s ease;} #fotolove:hover{transform: scale(.8);}
 #pesanAkhir{margin-top:30px;font-family:var(--gaya-font3);font-size:22px !important;font-weight:400;text-align:center;position: absolute;opacity:0;}
 #keterangan{position:relative;bottom:-60px;color:white;font-size:13px;opacity:0;transition:all .7s ease;}
