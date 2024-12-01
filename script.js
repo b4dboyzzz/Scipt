@@ -3,7 +3,7 @@ function berjatuhan() {const heart = document.createElement("div"); heart.classN
 
 const box = document.getElementById('pergeseran');
 const totalSlide = box.children.length;
-console.log('Skrip dibuat oleh DiGie 😋');
+console.log('Skrip dibuat oleh Arkais 😋');
 console.log('Total Slide: ', totalSlide);
 totalPesan = totalSlide;
 
